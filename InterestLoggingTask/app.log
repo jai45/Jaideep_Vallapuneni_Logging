@@ -1,0 +1,16 @@
+2020-02-26 11:49:20 INFO  CompoundInterest:10 -in the compound interest method
+2020-02-26 11:49:20 INFO  CompoundInterest:13 -compound interest is1693.8979320000005
+2020-02-26 11:49:20 ERROR SimpleInterest:11 -in the simple interest method
+2020-02-26 11:49:20 INFO  SimpleInterest:13 -Simple interest is432.0
+2020-02-26 11:49:34 INFO  CompoundInterest:10 -in the compound interest method
+2020-02-26 11:49:34 INFO  CompoundInterest:13 -compound interest is141.15816100000004
+2020-02-26 11:49:34 ERROR SimpleInterest:11 -in the simple interest method
+2020-02-26 11:49:34 INFO  SimpleInterest:13 -Simple interest is432.0
+2020-02-26 11:49:50 INFO  CompoundInterest:10 -in the compound interest method
+2020-02-26 11:49:50 INFO  CompoundInterest:13 -compound interest is1693.8979320000005
+2020-02-26 11:49:50 ERROR SimpleInterest:11 -in the simple interest method
+2020-02-26 11:49:50 INFO  SimpleInterest:13 -Simple interest is432.0
+2020-02-26 12:57:47 INFO  CompoundInterest:10 -in the compound interest method
+2020-02-26 12:57:47 INFO  CompoundInterest:13 -compound interest is1693.8979320000005
+2020-02-26 12:57:47 ERROR SimpleInterest:11 -in the simple interest method
+2020-02-26 12:57:47 INFO  SimpleInterest:13 -Simple interest is432.0

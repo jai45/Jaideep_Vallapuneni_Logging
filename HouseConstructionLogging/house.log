@@ -1,0 +1,42 @@
+2020-02-26 12:10:22 INFO  TypeOfHouse:13 -Standard materials
+2020-02-26 12:10:22 INFO  Standard:11 -House uses standard Materials
+2020-02-26 12:10:22 ERROR Standard:13 -Cost is150000.0
+2020-02-26 12:10:22 INFO  TypeOfHouse:18 -Above Standard materials
+2020-02-26 12:10:22 INFO  AboveStandard:12 -House uses Above standard Materials
+2020-02-26 12:10:22 ERROR AboveStandard:14 -Cost is187500.0
+2020-02-26 12:10:22 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:10:22 INFO  TypeOfHouse:31 -Non Automated
+2020-02-26 12:10:22 INFO  HighStandardNonAutomated:11 -House uses High standard Materials and is non automated
+2020-02-26 12:10:22 WARN  HighStandardNonAutomated:13 -Cost is180000.0
+2020-02-26 12:10:22 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:10:22 INFO  TypeOfHouse:26 -And Automated
+2020-02-26 12:10:22 INFO  HighStandardAutomated:11 -House uses High standard Materials and automated
+2020-02-26 12:10:22 ERROR HighStandardAutomated:13 -Cost is250000.0
+2020-02-26 12:13:28 INFO  TypeOfHouse:13 -Standard materials
+2020-02-26 12:13:28 INFO  Standard:11 -House uses standard Materials
+2020-02-26 12:13:28 ERROR Standard:13 -Cost is150000.0
+2020-02-26 12:13:28 INFO  TypeOfHouse:18 -Above Standard materials
+2020-02-26 12:13:28 INFO  AboveStandard:12 -House uses Above standard Materials
+2020-02-26 12:13:28 ERROR AboveStandard:14 -Cost is187500.0
+2020-02-26 12:13:28 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:13:28 INFO  TypeOfHouse:31 -Non Automated
+2020-02-26 12:13:28 INFO  HighStandardNonAutomated:11 -House uses High standard Materials and is non automated
+2020-02-26 12:13:28 WARN  HighStandardNonAutomated:13 -Cost is180000.0
+2020-02-26 12:13:28 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:13:28 INFO  TypeOfHouse:26 -And Automated
+2020-02-26 12:13:28 INFO  HighStandardAutomated:11 -House uses High standard Materials and automated
+2020-02-26 12:13:28 ERROR HighStandardAutomated:13 -Cost is250000.0
+2020-02-26 12:14:49 INFO  TypeOfHouse:13 -Standard materials
+2020-02-26 12:14:49 INFO  Standard:11 -House uses standard Materials
+2020-02-26 12:14:49 ERROR Standard:13 -Cost is150000.0
+2020-02-26 12:14:49 INFO  TypeOfHouse:18 -Above Standard materials
+2020-02-26 12:14:49 INFO  AboveStandard:12 -House uses Above standard Materials
+2020-02-26 12:14:49 ERROR AboveStandard:14 -Cost is187500.0
+2020-02-26 12:14:49 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:14:49 INFO  TypeOfHouse:31 -Non Automated
+2020-02-26 12:14:49 INFO  HighStandardNonAutomated:11 -House uses High standard Materials and is non automated
+2020-02-26 12:14:49 WARN  HighStandardNonAutomated:13 -Cost is180000.0
+2020-02-26 12:14:49 INFO  TypeOfHouse:23 -High Standard materials
+2020-02-26 12:14:49 INFO  TypeOfHouse:26 -And Automated
+2020-02-26 12:14:49 INFO  HighStandardAutomated:11 -House uses High standard Materials and automated
+2020-02-26 12:14:49 ERROR HighStandardAutomated:13 -Cost is250000.0
